@@ -4,7 +4,7 @@
  * @Author: 田江
  * @Date: 2019-11-06 14:35:10
  * @LastEditors: 田江
- * @LastEditTime: 2019-11-10 14:55:44
+ * @LastEditTime: 2019-11-11 10:03:09
  -->
 <template>
     <footer>   
@@ -39,7 +39,6 @@ export default {
     return {
        
     }
-  }
   }
 }
 </script>
